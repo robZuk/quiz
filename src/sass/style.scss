@@ -1,0 +1,35 @@
+//colors
+$color1: #f9a826;
+$color2: #60bf88;
+$color3: #ea8282;
+$color4: #2f527b;
+.option {
+  display: flex;
+  height: 50px;
+  // justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 20px;
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px 0;
+  transition: 0.3s;
+  p {
+    align-self: flex-start;
+    margin-left: 10px;
+    // &:nth-child(1) {
+    //   margin-left: 10px;
+    // }
+  }
+  &:hover {
+    background-color: $color1;
+  }
+}
+
+// .list-group-item + .list-group-item {
+//   border: 1px solid gray;
+// }
+
+// $list-group-border-width: {
+//   border: 1px solid gray;
+// }
