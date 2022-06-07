@@ -2,7 +2,6 @@ import React, { StrictMode } from "react";
 import { Context } from "./context.js";
 import useFetch from "./hooks/useFetch";
 import useCreateQuestion from "./hooks/useCreateQuestions";
-
 import Quiz from "./components/Quiz";
 
 function App() {

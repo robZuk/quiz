@@ -1,6 +1,5 @@
 {
   "name": "country-quiz-hook",
-  "homepage": "https://robzuk.github.io/quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -169,5 +169,8 @@ $color7: #1d355d;
   &-link {
     color: $color6;
     text-decoration: none;
+    &:hover {
+      color: $color6;
+    }
   }
 }
