@@ -3,7 +3,8 @@
 ### [https://robzuk.github.io/quiz/](https://robzuk.github.io/quiz/)
 
 
-![screen](https://user-images.githubusercontent.com/40764780/172378561-9eed485c-b7e5-4060-9389-5aefae765954.png)
+
+![screen](https://user-images.githubusercontent.com/40764780/172378743-00a9b4c9-4f84-40ad-ace1-32a803825098.png)
 
 ### Technologies
 
