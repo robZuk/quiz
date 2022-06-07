@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.558f3e6a.css",
-    "main.js": "/static/js/main.41d144a5.js",
-    "static/js/787.61377849.chunk.js": "/static/js/787.61377849.chunk.js",
-    "static/media/winners.svg": "/static/media/winners.d76bfdf87016eda38fd439d929ce0371.svg",
-    "static/media/background.png": "/static/media/background.41dbc5504a105eae7176.png",
-    "static/media/adventure.svg": "/static/media/adventure.182b6171bba7c99e5444500b4daec361.svg",
-    "index.html": "/index.html",
-    "main.558f3e6a.css.map": "/static/css/main.558f3e6a.css.map",
-    "main.41d144a5.js.map": "/static/js/main.41d144a5.js.map",
-    "787.61377849.chunk.js.map": "/static/js/787.61377849.chunk.js.map"
+    "main.css": "/quiz/static/css/main.0653e016.css",
+    "main.js": "/quiz/static/js/main.3742a1a6.js",
+    "static/js/787.61377849.chunk.js": "/quiz/static/js/787.61377849.chunk.js",
+    "static/media/winners.svg": "/quiz/static/media/winners.d76bfdf87016eda38fd439d929ce0371.svg",
+    "static/media/background.png": "/quiz/static/media/background.41dbc5504a105eae7176.png",
+    "static/media/adventure.svg": "/quiz/static/media/adventure.182b6171bba7c99e5444500b4daec361.svg",
+    "index.html": "/quiz/index.html",
+    "main.0653e016.css.map": "/quiz/static/css/main.0653e016.css.map",
+    "main.3742a1a6.js.map": "/quiz/static/js/main.3742a1a6.js.map",
+    "787.61377849.chunk.js.map": "/quiz/static/js/787.61377849.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.558f3e6a.css",
-    "static/js/main.41d144a5.js"
+    "static/css/main.0653e016.css",
+    "static/js/main.3742a1a6.js"
   ]
 }
