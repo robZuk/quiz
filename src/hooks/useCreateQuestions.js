@@ -1,4 +1,4 @@
-function useQuestions(data) {
+function useCreateQuestions(data) {
   let randomCountries = [];
 
   let questions = [];
@@ -49,4 +49,4 @@ function useQuestions(data) {
   return { questions };
 }
 
-export default useQuestions;
+export default useCreateQuestions;

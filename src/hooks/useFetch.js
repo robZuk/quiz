@@ -10,7 +10,6 @@ function useFetch(url, options) {
       try {
         const response = await fetch(url, options);
         const data = await response.json();
-        // console.log(data);
         setLoading(false);
         setData(data);
       } catch (error) {
@@ -22,7 +21,6 @@ function useFetch(url, options) {
     fetchData();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-  // console.log(data);
 
   return { data, loading, error };
 }
