@@ -11,9 +11,7 @@
 
 ### Features
 
-- Clustering events
-- Events search feature
-- Filtering events
+- Choosing and checking answer
 
 ### Env Variables
 
