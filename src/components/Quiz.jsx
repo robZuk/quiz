@@ -13,7 +13,7 @@ function Game() {
     <BrowserRouter>
       <Routes>
         <Route
-          path="/"
+          path="/quiz"
           element={
             <Questions
               setAnswer={setAnswer}
